@@ -431,7 +431,7 @@ if __name__ == '__main__':
 	n_articles = 1000
 	ArticleGroups = 5
 
-	n_users = 40
+	n_users = 10
 	UserGroups = 5
 	
 	poolSize = 10
